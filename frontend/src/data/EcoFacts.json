@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1",
+    "fact": "Recycling one aluminum can saves enough energy to run a TV for 3 hours.",
+    "source": "Environmental Protection Agency"
+  },
+  {
+    "id": "2",
+    "fact": "It takes 450 years for a plastic bottle to decompose in the ocean.",
+    "source": "Ocean Conservancy"
+  },
+  {
+    "id": "3",
+    "fact": "If every American recycled one plastic bottle, it would save enough energy to power 1.5 million homes.",
+    "source": "National Geographic"
+  },
+  {
+    "id": "4",
+    "fact": "Glass is 100% recyclable and can be reused endlessly without loss in quality.",
+    "source": "Glass Packaging Institute"
+  },
+  {
+    "id": "5",
+    "fact": "The average person generates 4.5 pounds of trash per day, double the amount from 50 years ago.",
+    "source": "EPA Statistics"
+  },
+  {
+    "id": "6",
+    "fact": "Producing new plastic from recycled material uses 75% less energy than making it from raw materials.",
+    "source": "Stanford University"
+  },
+  {
+    "id": "7",
+    "fact": "Globally, 300 million tonnes of plastic waste are produced annually, with 14 million tons entering oceans each year.",
+    "source": "UNEP"
+  },
+  {
+    "id": "8",
+    "fact": "Around 2.2 billion people worldwide lack access to safe drinking water.",
+    "source": "UN-Water"
+  },
+  {
+    "id": "9",
+    "fact": "Food production contributes about 26% of global greenhouse gas emissions.",
+    "source": "Our World in Data"
+  },
+  {
+    "id": "10",
+    "fact": "Deforestation contributes directly to approximately 10% of recent global warming.",
+    "source": "WWF"
+  },
+  {
+    "id": "11",
+    "fact": "Annual global CO₂ emissions increased by 50% in the last 30 years.",
+    "source": "Statista"
+  },
+  {
+    "id": "12",
+    "fact": "Ice melting in the Arctic is causing sea level rise at more than twice the prior 20th-century pace.",
+    "source": "Tariff Environmental Report 2025"
+  },
+  {
+    "id": "13",
+    "fact": "Air pollution causes an estimated 4.2 to 7 million premature deaths worldwide every year.",
+    "source": "WHO"
+  },
+  {
+    "id": "14",
+    "fact": "Using LED bulbs can reduce household energy use by up to 80% compared to traditional bulbs.",
+    "source": "Energy.gov"
+  },
+  {
+    "id": "15",
+    "fact": "Composting kitchen and yard waste can reduce methane emissions from landfills significantly.",
+    "source": "Environmental Defense Fund"
+  },
+  {
+    "id": "16",
+    "fact": "Over 60% of global freshwater demand is expected to exceed supply by 2030.",
+    "source": "UNEP"
+  },
+  {
+    "id": "17",
+    "fact": "E-waste has grown by 147% in seven years, posing huge recycling and pollution challenges.",
+    "source": "India Environment Report 2025"
+  },
+  {
+    "id": "18",
+    "fact": "Taking shorter showers can save tens of liters of water daily per household.",
+    "source": "Water.org"
+  },
+  {
+    "id": "19",
+    "fact": "Organic farming typically uses 45% less energy than conventional farming.",
+    "source": "Rodale Institute"
+  },
+  {
+    "id": "20",
+    "fact": "Switching to a plant-based diet can lower your carbon footprint by up to 50%.",
+    "source": "Oxford University"
+  },
+  {
+    "id": "21",
+    "fact": "Electric vehicles produce up to 60% fewer greenhouse emissions over their lifecycle than gasoline cars.",
+    "source": "EPA"
+  },
+  {
+    "id": "22",
+    "fact": "Air-drying clothes instead of using dryers can save 700 kWh of electricity annually.",
+    "source": "Energy Star"
+  },
+  {
+    "id": "23",
+    "fact": "Globally, about 92 million tons of textiles are discarded each year, contributing to landfill and microplastic pollution.",
+    "source": "Global Fashion Agenda"
+  },
+  {
+    "id": "24",
+    "fact": "Recycling paper saves 17 trees per ton of paper recycled.",
+    "source": "EPA"
+  },
+  {
+    "id": "25",
+    "fact": "Buying local reduces CO₂ emissions from transportation and supports community economies.",
+    "source": "Local Food and Sustainability Studies"
+  },
+  {
+    "id": "26",
+    "fact": "Over 70% of global consumers are willing to pay more for sustainable products.",
+    "source": "Arbor.eco"
+  },
+  {
+    "id": "27",
+    "fact": "Energy Star appliances consume 10-50% less energy than standard models.",
+    "source": "Energy Star"
+  },
+  {
+    "id": "28",
+    "fact": "Using rechargeable batteries can reduce hazardous waste significantly compared to disposables.",
+    "source": "Battery University"
+  },
+  {
+    "id": "29",
+    "fact": "Over 135 districts in India extract groundwater from depths exceeding 40 meters, doubling since 2014.",
+    "source": "India Environment Report 2025"
+  },
+  {
+    "id": "30",
+    "fact": "LED streetlights use 75% less energy than traditional sodium lights.",
+    "source": "Department of Energy"
+  },
+  {
+    "id": "31",
+    "fact": "Buying in bulk reduces packaging waste and carbon emissions from transport and manufacturing.",
+    "source": "Sustainable Packaging Coalition"
+  },
+  {
+    "id": "32",
+    "fact": "Plastic straws are often found in ocean debris and can take 200 years to decompose.",
+    "source": "Marine Conservation Society"
+  },
+  {
+    "id": "33",
+    "fact": "Deforestation in India reached a decade-high forest diversion of 29,000 hectares in 2024.",
+    "source": "India Environment Report 2025"
+  },
+  {
+    "id": "34",
+    "fact": "About 26% of global wheat, rice, and maize production is lost yearly to climate-related factors.",
+    "source": "IPCC Report"
+  },
+  {
+    "id": "35",
+    "fact": "Energy-efficient windows can reduce heating and cooling costs by up to 30%.",
+    "source": "DOE Energy Efficiency"
+  },
+  {
+    "id": "36",
+    "fact": "The global population lacks access to clean energy for cooking and heating by approximately 2.4 billion people.",
+    "source": "IEA"
+  },
+  {
+    "id": "37",
+    "fact": "Recycling steel saves 60-74% of energy compared to making it from raw ore.",
+    "source": "World Steel Association"
+  },
+  {
+    "id": "38",
+    "fact": "Organic textiles reduce pesticide use, which is harmful to ecosystems and human health.",
+    "source": "Textile Exchange"
+  },
+  {
+    "id": "39",
+    "fact": "Using cloth bags instead of plastic can keep billions of plastic bags out of landfills annually.",
+    "source": "Plastic Pollution Coalition"
+  },
+  {
+    "id": "40",
+    "fact": "Paper recycling reduces landfill waste and conserves water during manufacturing.",
+    "source": "EPA"
+  },
+  {
+    "id": "41",
+    "fact": "Consumers drive 30% of global carbon emissions through purchased goods and services.",
+    "source": "CDP Reports"
+  },
+  {
+    "id": "42",
+    "fact": "Sustainable forestry practices help preserve biodiversity and combat climate change.",
+    "source": "FAO"
+  },
+  {
+    "id": "43",
+    "fact": "Installing a smart thermostat can reduce heating and cooling energy use by about 10-12%.",
+    "source": "Energy Star"
+  },
+  {
+    "id": "44",
+    "fact": "Approximately 75% of global fisheries are fully exploited or overfished.",
+    "source": "FAO Fisheries Report"
+  },
+  {
+    "id": "45",
+    "fact": "Global textile production is expected to double by 2030, greatly increasing waste.",
+    "source": "McKinsey Sustainability Report"
+  },
+  {
+    "id": "46",
+    "fact": "About 50% of all food produced in the world is wasted.",
+    "source": "FAO"
+  },
+  {
+    "id": "47",
+    "fact": "Switching to natural cleaning products reduces toxic chemical pollution.",
+    "source": "Environmental Working Group"
+  },
+  {
+    "id": "48",
+    "fact": "Using both sides of a sheet of paper cuts paper usage in half.",
+    "source": "EPA"
+  },
+  {
+    "id": "49",
+    "fact": "Sustainable lifestyle choices by individuals contribute significantly to lowering carbon footprints.",
+    "source": "Global Environmental Change Journal"
+  },
+  {
+    "id": "50",
+    "fact": "Growing native plants supports local ecosystems and requires less water.",
+    "source": "US Native Plant Society"
+  },
+  {
+    "id": "51",
+    "fact": "Indoor air pollution causes about 4 million premature deaths every year worldwide.",
+    "source": "WHO"
+  },
+  {
+    "id": "52",
+    "fact": "Watering gardens early in the morning can reduce water evaporation by up to 30%.",
+    "source": "USDA"
+  },
+  {
+    "id": "53",
+    "fact": "Switching to solar power at home can reduce carbon emissions by 3 to 4 tons annually.",
+    "source": "Solar Energy Industries Association"
+  },
+  {
+    "id": "54",
+    "fact": "The average European consumes around 13 tons of materials per year.",
+    "source": "Eurostat"
+  },
+  {
+    "id": "55",
+    "fact": "Textile fibers like polyester shed microplastics contributing to marine pollution.",
+    "source": "Marine Pollution Bulletin"
+  },
+  {
+    "id": "56",
+    "fact": "Public transport usage reduces individual carbon emissions by up to 45% compared to private cars.",
+    "source": "International Energy Agency"
+  },
+  {
+    "id": "57",
+    "fact": "Plastic constitutes 80% of all marine debris found worldwide.",
+    "source": "UNEP"
+  },
+  {
+    "id": "58",
+    "fact": "A typical tree can absorb about 48 pounds of CO₂ annually.",
+    "source": "US Forest Service"
+  },
+  {
+    "id": "59",
+    "fact": "Food packaging accounts for about 20-30% of total packaging waste globally.",
+    "source": "Packaging Europe"
+  },
+  {
+    "id": "60",
+    "fact": "Switching to cloth diapers can save a family up to 1 ton of waste per year.",
+    "source": "EPA"
+  },
+  {
+    "id": "61",
+    "fact": "Fast fashion produces 10% of global carbon emissions, more than international flights and maritime shipping combined.",
+    "source": "UNEP"
+  },
+  {
+    "id": "62",
+    "fact": "Every minute, one garbage truck of plastic is dumped into the oceans.",
+    "source": "Ocean Conservancy"
+  },
+  {
+    "id": "63",
+    "fact": "Plastic takes up to 1,000 years to fully decompose in landfills.",
+    "source": "Environmental Science Journal"
+  },
+  {
+    "id": "64",
+    "fact": "Worldwide, human activity has altered over 75% of terrestrial environments.",
+    "source": "IPBES Global Report"
+  },
+  {
+    "id": "65",
+    "fact": "Installing low-flow water fixtures can reduce household water use by up to 30%.",
+    "source": "EPA WaterSense"
+  },
+  {
+    "id": "66",
+    "fact": "The average smartphone contains over 60 elements, many of which are finite resources.",
+    "source": "Scientific American"
+  },
+  {
+    "id": "67",
+    "fact": "Sustainable business practices can increase profits by 20-30% while reducing environmental impacts.",
+    "source": "Harvard Business Review"
+  },
+  {
+    "id": "68",
+    "fact": "70% of the world’s freshwater is used by agriculture.",
+    "source": "FAO Water Report"
+  },
+  {
+    "id": "69",
+    "fact": "Urban green spaces help reduce temperatures by up to 9°F in cities.",
+    "source": "EPA"
+  },
+  {
+    "id": "70",
+    "fact": "Food waste generates methane, a greenhouse gas 25 times more potent than CO₂.",
+    "source": "EPA"
+  },
+  {
+    "id": "71",
+    "fact": "Using refillable personal care products reduces plastic waste drastically.",
+    "source": "Sustainability Reports"
+  },
+  {
+    "id": "72",
+    "fact": "Applying energy conservation habits at home can save 10-20% on utility bills.",
+    "source": "DOE"
+  },
+  {
+    "id": "73",
+    "fact": "Transport accounts for nearly a quarter of global greenhouse gas emissions.",
+    "source": "IEA"
+  },
+  {
+    "id": "74",
+    "fact": "By 2050, there could be more plastic than fish in the oceans by weight.",
+    "source": "Ellen MacArthur Foundation"
+  },
+  {
+    "id": "75",
+    "fact": "Sustainable forestry can store up to 25% of global CO₂ emissions annually.",
+    "source": "WWF"
+  },
+  {
+    "id": "76",
+    "fact": "Natural fibers like hemp require less water and pesticides than cotton.",
+    "source": "Textile Exchange"
+  },
+  {
+    "id": "77",
+    "fact": "Electricity generated from coal is the largest single source of global CO₂ emissions.",
+    "source": "IEA"
+  },
+  {
+    "id": "78",
+    "fact": "Switching to a plant-rich diet can reduce water use by up to 50%.",
+    "source": "Water Footprint Network"
+  },
+  {
+    "id": "79",
+    "fact": "Using reusable water bottles cuts down over 1,000 plastic bottles per person annually.",
+    "source": "Plastic Pollution Coalition"
+  },
+  {
+    "id": "80",
+    "fact": "Plastic waste in rivers is a major source of ocean pollution.",
+    "source": "UNEP"
+  },
+  {
+    "id": "81",
+    "fact": "Properly recycling one ton of paper saves 7,000 gallons of water.",
+    "source": "EPA"
+  },
+  {
+    "id": "82",
+    "fact": "More than 80% of the Earth’s original forests have been lost.",
+    "source": "World Resources Institute"
+  },
+  {
+    "id": "83",
+    "fact": "Textile waste contributes 10% of all global carbon emissions.",
+    "source": "Global Fashion Agenda"
+  },
+  {
+    "id": "84",
+    "fact": "Recycling one ton of plastic saves nearly 1,000 gallons of gasoline.",
+    "source": "EPA"
+  },
+  {
+    "id": "85",
+    "fact": "Switching off lights when not in use can reduce energy consumption by up to 10%.",
+    "source": "Energy Saving Trust"
+  },
+  {
+    "id": "86",
+    "fact": "Air pollution reduces global agricultural yields by about 10% annually.",
+    "source": "FAO"
+  },
+  {
+    "id": "87",
+    "fact": "Recycling glass reduces raw material usage by 30%.",
+    "source": "Glass Packaging Institute"
+  },
+  {
+    "id": "88",
+    "fact": "Nearly 1 billion people are estimated to be employed in agriculture worldwide.",
+    "source": "FAO"
+  },
+  {
+    "id": "89",
+    "fact": "Timber from sustainably managed forests grows faster, leading to higher carbon sequestration.",
+    "source": "FSC"
+  },
+  {
+    "id": "90",
+    "fact": "Energy-efficient buildings can reduce energy use by 50-70%.",
+    "source": "DOE"
+  },
+  {
+    "id": "91",
+    "fact": "Textile microfibers make up a significant portion of microplastic ocean pollution.",
+    "source": "Science Advances"
+  },
+  {
+    "id": "92",
+    "fact": "Switching to public transport can reduce individual CO₂ emissions by over 30%.",
+    "source": "IEA"
+  },
+  {
+    "id": "93",
+    "fact": "The manufacture of cement contributes about 8% of global CO₂ emissions.",
+    "source": "IEA"
+  },
+  {
+    "id": "94",
+    "fact": "Zero-waste lifestyles reduce household waste by 60-80%.",
+    "source": "Waste Management Journal"
+  },
+  {
+    "id": "95",
+    "fact": "Water-efficient irrigation systems can save up to 40% of water in agriculture.",
+    "source": "FAO"
+  },
+  {
+    "id": "96",
+    "fact": "Switching to soy-based inks for printing reduces VOC emissions.",
+    "source": "Environmental Paper Network"
+  },
+  {
+    "id": "97",
+    "fact": "Nearly 70% of plastic waste ends up in landfills or the environment.",
+    "source": "EPA"
+  },
+  {
+    "id": "98",
+    "fact": "Using eco-friendly detergents improves water quality by reducing chemical runoff.",
+    "source": "Environmental Working Group"
+  },
+  {
+    "id": "99",
+    "fact": "Global renewable energy capacity grew by over 15% in 2024.",
+    "source": "IRENA"
+  },
+  {
+    "id": "100",
+    "fact": "Access to green spaces improves mental health and reduces urban heat island effects.",
+    "source": "WHO"
+  }
+]

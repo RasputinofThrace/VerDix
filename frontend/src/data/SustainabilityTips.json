@@ -1,0 +1,458 @@
+[
+  {
+    "id": "1",
+    "title": "Choose Glass Over Plastic",
+    "description": "Glass containers can be recycled infinitely without quality loss, unlike plastic which degrades and often ends up in landfills.",
+    "category": "Packaging"
+  },
+  {
+    "id": "2",
+    "title": "Look for Recycled Content",
+    "description": "Products with recycled materials reduce the need for virgin resources and save significant energy in manufacturing processes.",
+    "category": "Materials"
+  },
+  {
+    "id": "3",
+    "title": "Support Local Brands",
+    "description": "Local products have lower transportation emissions and often have better transparency in their sustainability practices.",
+    "category": "Transportation"
+  },
+  {
+    "id": "4",
+    "title": "Avoid Single-Use Plastics",
+    "description": "Bring your own reusable bags, bottles, and containers to significantly reduce plastic waste in your daily life.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "5",
+    "title": "Check Product Certifications",
+    "description": "Look for certifications like Fair Trade, Organic, or B Corp that indicate better environmental and social practices.",
+    "category": "Certifications"
+  },
+  {
+    "id": "6",
+    "title": "Unplug Idle Electronics",
+    "description": "Devices not in use still draw power, known as phantom energy. Unplug them to save electricity and reduce bills.",
+    "category": "Energy"
+  },
+  {
+    "id": "7",
+    "title": "Switch to LED Bulbs",
+    "description": "LED bulbs use up to 80% less energy and last significantly longer than traditional incandescent lights.",
+    "category": "Energy"
+  },
+  {
+    "id": "8",
+    "title": "Collect Rainwater",
+    "description": "Use simple rainwater harvesting systems to reduce dependence on municipal supply and save water for gardening.",
+    "category": "Water"
+  },
+  {
+    "id": "9",
+    "title": "Buy Second-Hand Items",
+    "description": "Thrifting extends product life cycles and keeps useful items out of landfills.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "10",
+    "title": "Compost Organic Waste",
+    "description": "Turn fruit peels and kitchen scraps into natural fertilizer, reducing methane-producing waste in landfills.",
+    "category": "Waste"
+  },
+  {
+    "id": "11",
+    "title": "Reduce Meat Consumption",
+    "description": "Incorporate more plant-based meals to lower your carbon footprint and water usage.",
+    "category": "Food"
+  },
+  {
+    "id": "12",
+    "title": "Insulate Your Home",
+    "description": "Proper insulation helps maintain indoor temperature, minimizing heating and cooling energy.",
+    "category": "Energy"
+  },
+  {
+    "id": "13",
+    "title": "Use Refillable Products",
+    "description": "Choose refillable soaps, detergents, and cosmetics to cut down on single-use packaging waste.",
+    "category": "Packaging"
+  },
+  {
+    "id": "14",
+    "title": "Limit Fast Fashion Purchases",
+    "description": "Buy fewer, higher-quality garments made from natural or recycled fibers to reduce textile waste.",
+    "category": "Fashion"
+  },
+  {
+    "id": "15",
+    "title": "Maintain Your Appliances",
+    "description": "Regular cleaning and service of appliances help them use less energy and last longer.",
+    "category": "Energy"
+  },
+  {
+    "id": "16",
+    "title": "Opt for Renewable Energy Plans",
+    "description": "Switch your electricity provider to one offering renewable sources like wind or solar.",
+    "category": "Energy"
+  },
+  {
+    "id": "17",
+    "title": "Carpool or Use Public Transport",
+    "description": "Sharing rides or using buses and trains reduces emissions per passenger significantly.",
+    "category": "Transportation"
+  },
+  {
+    "id": "18",
+    "title": "Plant Native Trees",
+    "description": "Native species support local ecosystems and require less water and maintenance.",
+    "category": "Environment"
+  },
+  {
+    "id": "19",
+    "title": "Avoid Glitter and Microplastics",
+    "description": "Many glitters and exfoliants contain microplastics that pollute oceans and harm wildlife.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "20",
+    "title": "Buy in Bulk",
+    "description": "Purchasing in larger quantities reduces packaging waste and frequent transport emissions.",
+    "category": "Packaging"
+  },
+
+  {
+    "id": "21",
+    "title": "Use Cloth Towels Instead of Paper",
+    "description": "Replace disposable paper towels with washable cloth options to cut down paper waste.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "22",
+    "title": "Repair Before Replacing",
+    "description": "Extend the lifespan of electronics and furniture through repair instead of discarding them.",
+    "category": "Waste"
+  },
+  {
+    "id": "23",
+    "title": "Grow Your Own Herbs",
+    "description": "Indoor herb gardens reduce packaging waste and emissions from store-bought herbs.",
+    "category": "Food"
+  },
+  {
+    "id": "24",
+    "title": "Use Energy-Efficient Appliances",
+    "description": "Choose appliances rated high in energy efficiency to save power and reduce emissions.",
+    "category": "Energy"
+  },
+  {
+    "id": "25",
+    "title": "Work Remotely When Possible",
+    "description": "Reducing commutes lowers fuel usage and carbon emissions.",
+    "category": "Work"
+  },
+  {
+    "id": "26",
+    "title": "Recycle Electronics Properly",
+    "description": "Take e-waste to certified recycling centers to prevent toxic metal contamination.",
+    "category": "Waste"
+  },
+  {
+    "id": "27",
+    "title": "Turn Off Tap While Brushing",
+    "description": "Simple actions like closing the tap while brushing can save several liters of water daily.",
+    "category": "Water"
+  },
+  {
+    "id": "28",
+    "title": "Choose Water-Based Paints",
+    "description": "Avoid paints with harmful solvents; water-based options release fewer VOCs.",
+    "category": "Home"
+  },
+  {
+    "id": "29",
+    "title": "Go Paperless",
+    "description": "Opt for digital receipts and statements to cut unnecessary paper use.",
+    "category": "Office"
+  },
+  {
+    "id": "30",
+    "title": "Donate Unused Items",
+    "description": "Giving away items you no longer need reduces waste and helps others.",
+    "category": "Community"
+  },
+
+  {
+    "id": "31",
+    "title": "Buy Seasonal Produce",
+    "description": "Eating in-season fruits and vegetables supports local growers and reduces transport emissions.",
+    "category": "Food"
+  },
+  {
+    "id": "32",
+    "title": "Use Eco-Friendly Cleaning Products",
+    "description": "Natural cleaning agents like vinegar and baking soda work well and avoid chemical pollutants.",
+    "category": "Home"
+  },
+  {
+    "id": "33",
+    "title": "Set a Home Recycling Station",
+    "description": "Keep clear bins for paper, plastic, and glass to make waste sorting easy.",
+    "category": "Waste"
+  },
+  {
+    "id": "34",
+    "title": "Avoid Air Travel for Short Trips",
+    "description": "Trains and buses emit far less CO₂ per passenger than flights over short distances.",
+    "category": "Transportation"
+  },
+  {
+    "id": "35",
+    "title": "Use Natural Light During Daytime",
+    "description": "Open curtains and plan workspaces near windows to reduce reliance on artificial lighting.",
+    "category": "Energy"
+  },
+  {
+    "id": "36",
+    "title": "Buy Durable Goods",
+    "description": "Opt for long-lasting items instead of disposable ones to reduce total consumption.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "37",
+    "title": "Join a Tool Library",
+    "description": "Borrow tools or equipment instead of buying rarely used ones.",
+    "category": "Community"
+  },
+  {
+    "id": "38",
+    "title": "Use Recycled Paper",
+    "description": "Recycled paper conserves trees and reduces landfill waste.",
+    "category": "Office"
+  },
+  {
+    "id": "39",
+    "title": "Carry a Reusable Coffee Cup",
+    "description": "Avoid disposable cups, which often contain plastic lining and are hard to recycle.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "40",
+    "title": "Install a Smart Thermostat",
+    "description": "Smart thermostats adjust temperature efficiently, saving energy automatically.",
+    "category": "Energy"
+  },
+
+  {
+    "id": "41",
+    "title": "Avoid Over-packaged Products",
+    "description": "Choose minimal or recyclable packaging to reduce waste generation.",
+    "category": "Packaging"
+  },
+  {
+    "id": "42",
+    "title": "Choose Organic Fabrics",
+    "description": "Organic cotton or hemp fabrics avoid harmful pesticides used in conventional production.",
+    "category": "Fashion"
+  },
+  {
+    "id": "43",
+    "title": "Use Both Sides of Paper",
+    "description": "Printing double-sided immediately cuts paper usage in half.",
+    "category": "Office"
+  },
+  {
+    "id": "44",
+    "title": "Buy Certified Wood Products",
+    "description": "Look for FSC-certified wood to ensure it comes from sustainably managed forests.",
+    "category": "Materials"
+  },
+  {
+    "id": "45",
+    "title": "Opt for Electric or Hybrid Vehicles",
+    "description": "They use cleaner energy sources and emit fewer greenhouse gases than petrol cars.",
+    "category": "Transportation"
+  },
+  {
+    "id": "46",
+    "title": "Reduce Shower Time",
+    "description": "Shorter showers can save tens of liters of water per day per household.",
+    "category": "Water"
+  },
+  {
+    "id": "47",
+    "title": "Buy Energy Star Products",
+    "description": "These appliances meet strict energy performance standards to conserve power.",
+    "category": "Energy"
+  },
+  {
+    "id": "48",
+    "title": "Use a Clothesline",
+    "description": "Air-drying clothes instead of using a dryer saves electricity and extends fabric life.",
+    "category": "Energy"
+  },
+  {
+    "id": "49",
+    "title": "Educate Others About Sustainability",
+    "description": "Sharing small eco-friendly habits can multiply positive impact across communities.",
+    "category": "Community"
+  },
+  {
+    "id": "50",
+    "title": "Switch to Natural Deodorants",
+    "description": "Many standard deodorants contain harmful chemicals; natural options reduce pollutants.",
+    "category": "Lifestyle"
+  },
+
+  {
+    "id": "51",
+    "title": "Avoid Bottled Water",
+    "description": "Install a home filter and carry your own bottle to reduce plastic waste.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "52",
+    "title": "Buy Rechargeable Batteries",
+    "description": "Rechargeable batteries can be reused hundreds of times, avoiding toxic waste.",
+    "category": "Materials"
+  },
+  {
+    "id": "53",
+    "title": "Support Circular Economy Brands",
+    "description": "Buy from companies that design products for reuse, recycling, and take-back programs.",
+    "category": "Business"
+  },
+  {
+    "id": "54",
+    "title": "Practice Eco-Friendly Gifting",
+    "description": "Gift experiences or useful eco-products instead of disposable or novelty items.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "55",
+    "title": "Upgrade Windows for Efficiency",
+    "description": "Energy-efficient windows reduce heat loss and dependence on heating systems.",
+    "category": "Energy"
+  },
+  {
+    "id": "56",
+    "title": "Recycle Cooking Oil Properly",
+    "description": "Never pour used oil down drains—find a collection center for safe disposal.",
+    "category": "Waste"
+  },
+  {
+    "id": "57",
+    "title": "Encourage Green Policies at Work",
+    "description": "Promote paperless systems, waste segregation, and energy-saving measures in offices.",
+    "category": "Work"
+  },
+  {
+    "id": "58",
+    "title": "Use Bamboo Toothbrushes",
+    "description": "Bamboo handles decompose naturally, unlike plastic ones that persist for decades.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "59",
+    "title": "Shop from Farmers’ Markets",
+    "description": "Local produce requires less transportation, supporting small growers with fresher food.",
+    "category": "Food"
+  },
+  {
+    "id": "60",
+    "title": "Avoid Disposable Razors",
+    "description": "Use safety razors with replaceable blades to reduce plastic waste.",
+    "category": "Lifestyle"
+  },
+
+  {
+    "id": "61",
+    "title": "Participate in Cleanup Drives",
+    "description": "Join or organize local cleanup events to restore natural environments.",
+    "category": "Community"
+  },
+  {
+    "id": "62",
+    "title": "Ditch Plastic Straws",
+    "description": "Switch to metal, bamboo, or paper straws to avoid single-use plastic pollution.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "63",
+    "title": "Choose Public Bicycles",
+    "description": "Use bike-sharing systems for short trips to improve air quality and fitness.",
+    "category": "Transportation"
+  },
+  {
+    "id": "64",
+    "title": "Buy Minimalist Packaging",
+    "description": "Favor items with simple, recyclable packaging rather than decorative plastics.",
+    "category": "Packaging"
+  },
+  {
+    "id": "65",
+    "title": "Use Solar Chargers",
+    "description": "Solar chargers for phones and devices reduce dependence on grid electricity.",
+    "category": "Energy"
+  },
+  {
+    "id": "66",
+    "title": "Support Reforestation Efforts",
+    "description": "Contribute to organizations planting trees to offset carbon emissions.",
+    "category": "Environment"
+  },
+  {
+    "id": "67",
+    "title": "Opt for Powdered Detergents",
+    "description": "Powdered detergents use less packaging and often contain fewer harsh chemicals.",
+    "category": "Home"
+  },
+  {
+    "id": "68",
+    "title": "Collect Greywater for Non-Drinking Use",
+    "description": "Reuse lightly used water from sinks or showers for cleaning or gardening.",
+    "category": "Water"
+  },
+  {
+    "id": "69",
+    "title": "Practice Mindful Consumption",
+    "description": "Think twice before purchasing—ask if it’s necessary, repairable, and durable.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "70",
+    "title": "Reduce Screen Brightness",
+    "description": "Lowering device brightness conserves battery power and extends device life.",
+    "category": "Energy"
+  },
+
+  {
+    "id": "71",
+    "title": "Encourage Green School Programs",
+    "description": "Promote sustainability awareness and recycling projects in educational institutions.",
+    "category": "Community"
+  },
+  {
+    "id": "72",
+    "title": "Use Natural Air Fresheners",
+    "description": "Essential oils or plants make better alternatives to synthetic sprays.",
+    "category": "Home"
+  },
+  {
+    "id": "73",
+    "title": "Time Your Laundry Loads",
+    "description": "Wash full loads during off-peak hours to save both energy and water.",
+    "category": "Energy"
+  },
+  {
+    "id": "74",
+    "title": "Wash Clothes in Cold Water",
+    "description": "Cold water cycles clean effectively while saving the energy used for heating.",
+    "category": "Energy"
+  },
+  {
+    "id": "75",
+    "title": "Compost Yard Waste",
+    "description": "Leaves and grass clippings can become nutrient-rich soil instead of landfill waste.",
+    "category": "Waste"
+  }
+]
