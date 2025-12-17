@@ -8,7 +8,7 @@ console.log('🔍 Environment check:');
 console.log('GEMINI_API_KEY exists:', !!process.env.GEMINI_API_KEY);
 console.log('GEMINI_API_KEY length:', process.env.GEMINI_API_KEY?.length || 0);
 
-import express from 'express';
+import express, { Request, Response } from 'express';
 import cors from 'cors';
 import analysisRoutes from './routes/Analysis';
 
@@ -24,7 +24,7 @@ app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 app.use('/api', analysisRoutes);
 
 // Health check
-app.get('/health', (req, res) => {
+app.get('/health', (req: Request, res: Response) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
